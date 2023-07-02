@@ -9,7 +9,7 @@ I'm a self-motivated beginner front-end developer with a passion for learning ne
 * 🌍  I'm based in Tbilisi
 * 🖥️  See my portfolio at [Portfolio](http://Lgelashvili.io)
 * ✉️  You can contact me at [ladogelashvili16@gmail.com](mailto:ladogelashvili16@gmail.com)
-* 🧠  I'm learning Angular
+* 🧠  I'm learning React
 * 🤝  I'm open to collaborating on projects
 
 ### Skills
